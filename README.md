@@ -1,5 +1,7 @@
 # SC-900: Microsoft Security, Compliance, and Identity Fundamentals — Study Notes
 
+✅ Passed — November 17, 2026
+
 A personal library of study notes for the [SC-900 exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/), organized by the official exam domains.
 
 ## Exam domains
